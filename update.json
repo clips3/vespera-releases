@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Versão 0.1.1: Correção de flickering ao abrir pop-up de arquivos, botão 'Abrir Local' agora funcional, arquivos .pcp e .err ocultos, hover estável nos cards, título compacto (apenas nome do projeto) nas telas de disciplina e divisão 50/50 das colunas CAD/BIM para HVAC.",
-  "pub_date": "2026-06-30T15:56:00Z",
+  "version": "0.1.2",
+  "notes": "Versão 0.1.2 (Hotfix): Correção crítica — servidor C# agora embutido corretamente no instalador. Todos os recursos do app funcionando normalmente.",
+  "pub_date": "2026-06-30T16:16:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWWxnc2trUWw0U0NRZ3FUTmpvemZPWmhmSmdpc1dCc0o5Ukw5b3p6cEFlMm5GR2lRMXFHc0NhalNFNUo0VVEwNzZmUW80bnZHS2ZnZS8rTEtsMjloNUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODM0OTY2CWZpbGU6VmVzcGVyYV8wLjEuMV94NjRfZW4tVVMubXNpCmNZVDBFejEyTVg4bGdDbitacUYvVUhSd04xNVhoTWV4dFVRYit4aXArNkZTejZ6S3hUY1BKajZSa0J1MCtOczNkYk1pNTExWnZ4Z3hJREx3ZE8ycUNBPT0K",
-      "url": "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.1/Vespera_0.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWXRMOXZIM01INFA2ZFBYOUMvQlZJRGlVZG0zbkFFTzIrd3lWdlJnTHorcWZVTExxamRRRDBuS1VLbnFSVnRzQ1gzSGNsbVUwbXBxdjZIQS9aVFR5OVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODM2MTcwCWZpbGU6VmVzcGVyYV8wLjEuMl94NjRfZW4tVVMubXNpCjRaY05mVkhHc0FFZ2EzTUFTWW9TdFF0TENrV0dQdENpS1NBYTBFVWFOZWZLUDRaRmEyTXg2OWJyb0RERzQ0TFg1dkpqS3RkUGhRSWZjaFVERHBPVUJRPT0K",
+      "url": "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.2/Vespera_0.1.2_x64_en-US.msi"
     }
   }
 }
