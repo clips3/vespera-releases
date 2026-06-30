@@ -1,11 +1,11 @@
 {
-  "version": "0.0.2",
-  "notes": "Novas funcionalidades: Filtros na linha do título, agrupamento por anos restrito a concluídos, seletor de disciplinas estilizado como tags e diálogo nativo para escolher a pasta do OneDrive nas configurações.",
-  "pub_date": "2026-06-30T08:30:00Z",
+  "version": "0.1.0",
+  "notes": "Versão 0.1.0: Nova arquitetura com servidor C# integrado automaticamente ao aplicativo, correção do salvamento de caminhos do OneDrive e desativação do login automático para novos computadores.",
+  "pub_date": "2026-06-30T09:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWWczRkNKdlIxL3pHZnpuVkljUk9SYit0aGl5cHV5OEZ1alNqU2IyNDJBZ0ZpVHlhZ3FtR294d2NqdnM2Y202NkpDcHRxeXFaRWN6SS8vaWxWQWdjTFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODE5NDM3CWZpbGU6VmVzcGVyYV8wLjAuMl94NjRfZW4tVVMubXNpCnUwYWZZbEpxVitWRktsT3hyZWsvbUhCNUk4QmVvUHc2SHNhMWw4bTlBYTVCTHl5YmIvR3N1V0Voa3NYREZqL2tpcElGdS9kY2Q1dnNZVU9zd0pmR0R3PT0K",
-      "url": "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.0.2/Vespera_0.0.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWW1ENVZlMzZLWmFWcjZiVkQ1aHpJUFNVcElIc3FFYnZFWE1ZZzNBNDR2YTJlVisrY0VhVGRURE1ZWE85WTc5MlNPYlVhSWlQVzEyZGdaZ3pwNENEdWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODIyNTM4CWZpbGU6VmVzcGVyYV8wLjEuMF94NjRfZW4tVVMubXNpClUvdzRJU1grNE41L0RvQjJRMFpFVlBZTXg1Uk00dyt0Z3l6Vm9EZ3FZK0gxcEliUmZyUmZocFJOWG94VXpPdkI5WXIvOU4vZU9oTGU4TDFiOGZPRURBPT0K",
+      "url": "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.0/Vespera_0.1.0_x64_en-US.msi"
     }
   }
 }
