@@ -1,0 +1,11 @@
+{
+  "version": "0.0.2",
+  "notes": "Novas funcionalidades: Filtros na linha do título, agrupamento por anos restrito a concluídos, seletor de disciplinas estilizado como tags e diálogo nativo para escolher a pasta do OneDrive nas configurações.",
+  "pub_date": "2026-06-30T08:30:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWXBjbEcvWEFEVExYbGRUZldDYy81SWoyYWlRRUt5QU55UTRwYkNoT0NJczJXbXAxQTVqaEU0MEZvaUhiYlQrU1NIN0NKdXhBNVJsRTBPTTJic3VMYndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODE5NDM3CWZpbGU6VmVzcGVyYV8wLjAuMl94NjRfZW4tVVMubXNpCjB6Y1ZpTGtsZVhjMEM2S1U2UUpqTFNPNzdjc00vZFB5VWQ0SDAyNVJVNWx2VWZSa2J3dm1aK0ZXOEF3TzFSdnN2U0xEOENzbjdtOEpvcU82TTBSbEJnPT0K",
+      "url": "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.0.2/Vespera_0.0.2_x64_en-US.msi"
+    }
+  }
+}
