@@ -1,6 +1,6 @@
 {
   "version": "0.1.3",
-  "notes": "VersÃ£o 0.1.3: ajustes recentes de interface, organizaÃ§Ã£o visual do dashboard e backend C# standalone embutido no instalador.",
+  "notes": "Versao 0.1.3: ajustes recentes de interface, organizacao visual do dashboard e backend C# standalone embutido no instalador.",
   "pub_date": "2026-07-01T11:37:31Z",
   "platforms": {
     "windows-x86_64": {
