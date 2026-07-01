@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Versão 0.1.2 (Hotfix): Correção crítica — servidor C# agora embutido corretamente no instalador. Todos os recursos do app funcionando normalmente.",
-  "pub_date": "2026-06-30T16:16:00Z",
+  "version": "0.1.3",
+  "notes": "VersÃ£o 0.1.3: ajustes recentes de interface, organizaÃ§Ã£o visual do dashboard e backend C# standalone embutido no instalador.",
+  "pub_date": "2026-07-01T11:37:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWXRMOXZIM01INFA2ZFBYOUMvQlZJRGlVZG0zbkFFTzIrd3lWdlJnTHorcWZVTExxamRRRDBuS1VLbnFSVnRzQ1gzSGNsbVUwbXBxdjZIQS9aVFR5OVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODM2MTcwCWZpbGU6VmVzcGVyYV8wLjEuMl94NjRfZW4tVVMubXNpCjRaY05mVkhHc0FFZ2EzTUFTWW9TdFF0TENrV0dQdENpS1NBYTBFVWFOZWZLUDRaRmEyTXg2OWJyb0RERzQ0TFg1dkpqS3RkUGhRSWZjaFVERHBPVUJRPT0K",
-      "url": "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.2/Vespera_0.1.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWWhWdHQ2bUcrOGtNSDdiMGdMdklTbTNjaWU0QWRQR1ZUems3bnkrWXZjRFpnVGkwRUoxQUFXVlVXWWNxZmtqNTRsQTBLaWxoWnVTcGxTR0VHVTVjbVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTA1NzgzCWZpbGU6VmVzcGVyYV8wLjEuM194NjRfZW4tVVMubXNpClpUVU9kTEVoNWJDMUlXdHEvU1pRRFFqekRtUE5ZM2Y5dkZwWnc5MXIvS29raU5GWDdtM0ZTMG5NMGEvVXhQNkd2TUxNY2cxb2E4Y3RBb1NJbGoxc0JnPT0K",
+      "url": "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.3/Vespera_0.1.3_x64_en-US.msi"
     }
   }
 }
