@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "Versao 0.1.3: ajustes recentes de interface, organizacao visual do dashboard e backend C# standalone embutido no instalador.",
-  "pub_date": "2026-07-01T11:37:31Z",
+  "version": "0.1.4",
+  "notes": "Versao 0.1.4: correção do travamento na tela de projetos, tratamento de exceções de hooks e ajustes nos layouts de marcos.",
+  "pub_date": "2026-07-03T19:57:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWWhWdHQ2bUcrOGtNSDdiMGdMdklTbTNjaWU0QWRQR1ZUems3bnkrWXZjRFpnVGkwRUoxQUFXVlVXWWNxZmtqNTRsQTBLaWxoWnVTcGxTR0VHVTVjbVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTA1NzgzCWZpbGU6VmVzcGVyYV8wLjEuM194NjRfZW4tVVMubXNpClpUVU9kTEVoNWJDMUlXdHEvU1pRRFFqekRtUE5ZM2Y5dkZwWnc5MXIvS29raU5GWDdtM0ZTMG5NMGEvVXhQNkd2TUxNY2cxb2E4Y3RBb1NJbGoxc0JnPT0K",
-      "url": "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.3/Vespera_0.1.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWWo3R05ybHdNZkJ4cXVBNCtkWFp6dWZsZkd6ZWc5VURmL1d4UVhTaTREUTE4cmRHWHg4aWJHM2lVZ2FaenZEY3BadS9sVlc3WDFHbDM5YnVUYTBuVmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTA4NjU4CWZpbGU6VmVzcGVyYV8wLjEuNF94NjRfZW4tVVMubXNpCnVrRGE5TWdnQ0RPRFQrVHZrdFRhSnpHM3d4Mk14VFkvSnNhR1luRDgwT2dxUVh6Zm4vWmNLeXJaSVZnTmFMZmVidE84S1h6VkRGZ3plcG0zSFZrbkFnPT0K",
+      "url": "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.4/Vespera_0.1.4_x64_en-US.msi"
     }
   }
 }
