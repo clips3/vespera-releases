@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Versao 0.1.4: correção do travamento na tela de projetos, tratamento de exceções de hooks e ajustes nos layouts de marcos.",
-  "pub_date": "2026-07-03T19:57:38Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWWo3R05ybHdNZkJ4cXVBNCtkWFp6dWZsZkd6ZWc5VURmL1d4UVhTaTREUTE4cmRHWHg4aWJHM2lVZ2FaenZEY3BadS9sVlc3WDFHbDM5YnVUYTBuVmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTA4NjU4CWZpbGU6VmVzcGVyYV8wLjEuNF94NjRfZW4tVVMubXNpCnVrRGE5TWdnQ0RPRFQrVHZrdFRhSnpHM3d4Mk14VFkvSnNhR1luRDgwT2dxUVh6Zm4vWmNLeXJaSVZnTmFMZmVidE84S1h6VkRGZ3plcG0zSFZrbkFnPT0K",
-      "url": "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.4/Vespera_0.1.4_x64_en-US.msi"
-    }
-  }
+    "version":  "0.1.5",
+    "notes":  "Versão oficial 0.1.5 com melhorias de cronograma, navegação, busca, feedback e estabilidade.",
+    "pub_date":  "2026-07-15T20:41:59Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWWpMLzl1ZktUNk1Rd0RzUWdiQmJ3aFNUdXVEZlNEUzRSczgyVENhNnl2K0FVT0k4bUZUdTdpNkhRakpPdFVNMjY3dnRkWjcvZHhtZkxMOGhteFpRZmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQ4MTEzCWZpbGU6VmVzcGVyYV8wLjEuNV94NjRfZW4tVVMubXNpCnExajI1TmxPd245MFZlOUp1T2RuTjgvSG1nVDlja000MGx1R01hY0ltYTE3TWVOS2Zrcng0c1kzMGZpeXdxYm9Ma29CY3puOTBZdFlNcVZ4akZzRURnPT0K",
+                                             "url":  "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.5/Vespera_0.1.5_x64_en-US.msi"
+                                         }
+                  }
 }
