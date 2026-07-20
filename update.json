@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.6",
-    "notes":  "Versão oficial 0.1.6 com configuração correta do Firewall para o Vespera Core Server, melhorias gerais e correções de estabilidade.",
-    "pub_date":  "2026-07-17T03:44:28Z",
+    "version":  "0.1.7",
+    "notes":  "Versao estavel 0.1.7 com melhorias no workspace de projetos, dashboards, navegacao e fluxos de arquivos.",
+    "pub_date":  "2026-07-20T11:32:20Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWXMvTnRMamQ2QWJMdjdzcnp2a0xkek9acjdNTWRYV09hTVVocVlKTWpQS0M3UG9nWEpVZDRuNmtsMGpSWU1oRFJpWjROWGlWZExFdEI5UmNlRlBXNEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjU5ODYxCWZpbGU6VmVzcGVyYV8wLjEuNl94NjRfZW4tVVMubXNpCkJ2bit1K1NobjFiVTQzQjR5TzBUYmVrQlFhVDgzQ1hlbDk1azg4TWhnUmFiWk9uZGVEZzB1Y2RsUFdxZXIrNUxFeVl6RUwycjNHWENlWktwZ1NNeUFRPT0K",
-                                             "url":  "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.6/Vespera_0.1.6_x64_en-US.msi"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWWtHT0dSNUdkciswQmZsbFYycUtZVzZGZ0JGcVBoZWpFLzNiU1dZSFZ2ZmlqcVlUZmJXMXZkbDZ2WFhWYkV5azgyYktaRGpUZXpmaVBrcmg4UmVFdHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTQ3MTM0CWZpbGU6VmVzcGVyYV8wLjEuN194NjRfZW4tVVMubXNpCkFuTnJ2VkYwekM4QUVxZktuVWMvdmR2dnVCeVd3QkhLK0dobUQ4Zk5EUE1zb0VzZ2V4RXgzTlF2MlFiNmIzMjJyVjd2aU4rWFB3OEJsUFBaRDZlN0N3PT0K",
+                                             "url":  "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.7/Vespera_0.1.7_x64_en-US.msi"
                                          }
                   }
 }
