@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.7",
-    "notes":  "Versao estavel 0.1.7 com melhorias no workspace de projetos, dashboards, navegacao e fluxos de arquivos.",
-    "pub_date":  "2026-07-20T11:32:20Z",
+    "version":  "0.1.8",
+    "notes":  "Versao estavel 0.1.8 com notificacoes e novo fluxo de votacao de feedback, preservacao da tela ao atualizar e melhorias de cronograma e exibicao em TV.",
+    "pub_date":  "2026-07-23T16:45:32Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWWtHT0dSNUdkciswQmZsbFYycUtZVzZGZ0JGcVBoZWpFLzNiU1dZSFZ2ZmlqcVlUZmJXMXZkbDZ2WFhWYkV5azgyYktaRGpUZXpmaVBrcmg4UmVFdHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTQ3MTM0CWZpbGU6VmVzcGVyYV8wLjEuN194NjRfZW4tVVMubXNpCkFuTnJ2VkYwekM4QUVxZktuVWMvdmR2dnVCeVd3QkhLK0dobUQ4Zk5EUE1zb0VzZ2V4RXgzTlF2MlFiNmIzMjJyVjd2aU4rWFB3OEJsUFBaRDZlN0N3PT0K",
-                                             "url":  "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.7/Vespera_0.1.7_x64_en-US.msi"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWXZFR2JpSndZc2JyVStscmtNVkNab2I4VXR1MHRKblVCWU1qNGFwWEZ5OE96eWp1QkRxVXB1V09yVEdDcXpKMVhzeWxhb3JrVjdSRnoxa1ZoMUlzMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODI1MTE5CWZpbGU6VmVzcGVyYV8wLjEuOF94NjRfZW4tVVMubXNpCmFLbnNTdzc4S2hRN281SldhZ3gzSHRLRG96em45Q3VXcndhTlNwZkNsNWRSMGNsbWtZaW40U0JiejhsblZ0RzFQVmhqbjRvZGhFT0I1eXhWSnBMV0R3PT0K",
+                                             "url":  "https://github.com/n8fbbmrx56-coder/vespera-releases/releases/download/v0.1.8/Vespera_0.1.8_x64_en-US.msi"
                                          }
                   }
 }
