@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.8",
-    "notes":  "Versao estavel 0.1.8 com notificacoes e novo fluxo de votacao de feedback, preservacao da tela ao atualizar e melhorias de cronograma e exibicao em TV.",
-    "pub_date":  "2026-07-23T16:45:32Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmFDbVkwWmdrWXZFR2JpSndZc2JyVStscmtNVkNab2I4VXR1MHRKblVCWU1qNGFwWEZ5OE96eWp1QkRxVXB1V09yVEdDcXpKMVhzeWxhb3JrVjdSRnoxa1ZoMUlzMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODI1MTE5CWZpbGU6VmVzcGVyYV8wLjEuOF94NjRfZW4tVVMubXNpCmFLbnNTdzc4S2hRN281SldhZ3gzSHRLRG96em45Q3VXcndhTlNwZkNsNWRSMGNsbWtZaW40U0JiejhsblZ0RzFQVmhqbjRvZGhFT0I1eXhWSnBMV0R3PT0K",
-                                             "url":  "https://github.com/clips3/vespera-releases/releases/download/v0.1.8/Vespera_0.1.8_x64_en-US.msi"
-                                         }
-                  }
+  "version": "0.1.9",
+  "notes": "Atualização após a transferência dos repositórios para clips3 e rotação da assinatura",
+  "pub_date": "2026-09-16T02:13:25Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzBtZlowZ0VYU2UzVzlYSHhFUGZKVGVLS0ZKdUpZNDAreW9yRWxmbzVYckVnbkNIVm1nSjNmblIrajhsalhxSG5sSGJsSldFYXRRS3FmQlMvSnBITndHbVVJbFdUWmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTI0Nzk2CWZpbGU6VmVzcGVyYV8wLjEuOV94NjRfZW4tVVMubXNpCk0vdFlCb1N4YjUzbUprZXJhN3I4ZmNUMEUrZXlDd0ROSlpTL0sxQ0RNbTVVdS9RblJyYW9raDYyVmdqVkdPaWdBbmczZWhCSER1NEpXcFM3UXhrOERRPT0K",
+      "url": "https://github.com/clips3/vespera-releases/releases/download/v0.1.9/Vespera_0.1.9_x64_en-US.msi"
+    }
+  }
 }
