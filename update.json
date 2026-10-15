@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "Correção da assinatura do atualizador e mensagens mais claras durante atualizações.",
-  "pub_date": "2026-10-15T18:58:10Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzBtZlowZ0VYU1RkQ3R3SXdXQTRkYTFrZW5qVVBtZ0c4UHp4ZUY4SUlKSFB1cWlPc2dwbUdJd0RHcUc1Qi94ZlYxODM5OHArdjR0ZG4rS0ZObVBvMWk3c3ltSTRhVmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDkwNjcxCWZpbGU6VmVzcGVyYV8wLjIuMV94NjRfZW4tVVMubXNpCjFURndCYTJNTUpwa1FmTEZyQkpvdFdqRTl5bUU0NC9MWDB4a3JXT2tlaWVuYTlaMkw3Vml5Y2Nnek1GVmZWTDVKamhlRzV1ZE9sazcvbkRNK2JwU0NRPT0K",
-      "url": "https://github.com/clips3/vespera-releases/releases/download/v0.2.1/Vespera_0.2.1_x64_en-US.msi"
-    }
-  }
+    "version":  "0.2.2",
+    "notes":  "Correção da busca global por projetos e melhoria no tempo de carregamento.",
+    "pub_date":  "2026-10-15T19:25:49Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzBtZlowZ0VYU1hhdFpYT0RCTE1JZW9hSjRjZDVoVDIvSDBDQ0l3T3JSbDhic0orN1JWYzlZQWVMRUhpRWM1RDJBQjlCTThvRVdhQ2Y5YllTeW1WUmRKREJ1S1docWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDkyMzE2CWZpbGU6VmVzcGVyYV8wLjIuMl94NjRfZW4tVVMubXNpCmtZcjJDTThYRXRxWS9maFhOV2lPV2NXUHFQZVFLNlVLMCtUdi9Hc3lEOGJybG53d3plV3AwbTBUZ1h2ck1PRHZudm1ZREFTMy8vdW9PZWVOckxrZkJRPT0K",
+                                             "url":  "https://github.com/clips3/vespera-releases/releases/download/v0.2.2/Vespera_0.2.2_x64_en-US.msi"
+                                         }
+                  }
 }
