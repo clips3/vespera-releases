@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.2",
-    "notes":  "Correção da busca global por projetos e melhoria no tempo de carregamento.",
-    "pub_date":  "2026-10-15T19:25:49Z",
+    "version":  "0.2.3",
+    "notes":  "Issues do projeto (filtros por disciplina, busca por conteudo/numero, dificuldade e comentarios), biblioteca Atlas e melhorias de entrega.",
+    "pub_date":  "2026-11-16T11:48:19Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzBtZlowZ0VYU1hhdFpYT0RCTE1JZW9hSjRjZDVoVDIvSDBDQ0l3T3JSbDhic0orN1JWYzlZQWVMRUhpRWM1RDJBQjlCTThvRVdhQ2Y5YllTeW1WUmRKREJ1S1docWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDkyMzE2CWZpbGU6VmVzcGVyYV8wLjIuMl94NjRfZW4tVVMubXNpCmtZcjJDTThYRXRxWS9maFhOV2lPV2NXUHFQZVFLNlVLMCtUdi9Hc3lEOGJybG53d3plV3AwbTBUZ1h2ck1PRHZudm1ZREFTMy8vdW9PZWVOckxrZkJRPT0K",
-                                             "url":  "https://github.com/clips3/vespera-releases/releases/download/v0.2.2/Vespera_0.2.2_x64_en-US.msi"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzBtZlowZ0VYU1ZoWk1YNFNOcytGSXRRRlpZaFl4SnBqL0JqWHNabmNEZjRJNjY0Q3hSNVdDZmhCanliejVCU2Q2anYxbStrV25FUDVHSUJaNVlPbFlsOFFxb3QydWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI5NjgyCWZpbGU6VmVzcGVyYV8wLjIuM194NjRfZW4tVVMubXNpClVJZWl3SkFpWkxRNkllOXgwcmNnMHNZRnBKNWlad0hXR2NwLzZBaHF0c25jdkVLY0w5VDJVc2tLTFZBc0VYR0pCRkpNTnY0Wk4xZ3h5b0hQcTh6cUR3PT0K",
+                                             "url":  "https://github.com/clips3/vespera-releases/releases/download/v0.2.3/Vespera_0.2.3_x64_en-US.msi"
                                          }
                   }
 }
