@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
-  "notes": "Filtro de dificuldade e melhorias na barra lateral de issues.",
-  "pub_date": "2026-11-19T11:47:56Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzBtZlowZ0VYU1J5UUUxR0tDN2NyeU1aRGtBTmxHMzRTVmtjOFdMdXBxSlJqdktIdnlQV00vK3RMR3Jla2hvb1FZa1YzQjdEZXJrMXdmc3plVGdpazlrSWl5NnVnc1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg4ODY5CWZpbGU6VmVzcGVyYV8wLjIuNF94NjRfZW4tVVMubXNpCmhOS0RUa3RoV2MxSHZHeG5DVDdPT1dOc2VDYjY4dGU4ZEJncjBkWWsxVmdKUHd4Q0dmK01mcFgvMjJjN3I4NUpuS1hCTmtDVWdXZGQvRnlNZWFmSkF3PT0K",
-      "url": "https://github.com/clips3/vespera-releases/releases/download/v0.2.4/Vespera_0.2.4_x64_en-US.msi"
-    }
-  }
+    "version":  "0.2.5",
+    "notes":  "Lista mestra por entregas, conclusão por disciplina nas issues, instância única no tray e cache de projetos",
+    "pub_date":  "2026-11-26T01:16:54Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYzBtZlowZ0VYU1diY2J5eUZ5UDdJaTZ2K1ZJeGxQZ2FFazdkc0lDb1p1bFR3ZGk1M3FyeE5ScWdyeUV6bHZoRmJodjU0dFpzVk8zTmRkZFBWOXRvVExsejBaOHErU2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjU1ODA3CWZpbGU6VmVzcGVyYV8wLjIuNV94NjRfZW4tVVMubXNpCmc5WGJKbUtyNzk0UnVieVRlOC9UQi9nRjd2TERHN29nNE1QQkJZNU1HY1hCYTRBU1h5Zmh4SjR4clczNnFzTUM5dHBFSnFmMlo1K3hxUmljZmhGNUFRPT0K",
+                                             "url":  "https://github.com/clips3/vespera-releases/releases/download/v0.2.5/Vespera_0.2.5_x64_en-US.msi"
+                                         }
+                  }
 }
